@@ -1,0 +1,16 @@
+ ID, Name, Status, Hq Country, Type, Employee Count, Ticker, Parent ID, Created At
+916928130,Cloud Services International,Active,United States,Customer,83499,CLOU,,2024-12-29 19:41:07.747552 UTC
+411681222,Digital Dynamics Ltd,Active,Germany,Customer,85651,DIGI,,2023-08-29 22:33:56.747907 UTC
+1801600549,Innovation Technologies,Active,United States,Customer,39635,INNO,,2024-09-04 03:48:35.748049 UTC
+239795474,Smart Systems Group,Active,United States,Partner,4834,,,2023-06-08 04:25:35.748175 UTC
+256821563,Future Solutions Inc,Active,Singapore,Customer,28511,FUTU,,2024-07-04 19:53:40.748297 UTC
+1623387676,Acme Corporation,Inactive,United States,Customer,58891,ACME,,2023-12-12 14:31:22.748419 UTC
+22857967,Innovation Technologies,Inactive,Singapore,Partner,438,,,2023-11-21 14:09:33.748535 UTC
+1807530463,Smart Systems Group,Active,United Kingdom,Partner,1629,,,2024-07-14 14:14:31.748657 UTC
+1347895265,Global Systems Ltd,Active,Japan,Customer,7229,,,2024-05-08 00:58:36.748782 UTC
+1282858110,Future Solutions Inc,Active,United Kingdom,Customer,90881,FUTU,,2023-08-25 23:49:47.748897 UTC
+965660227,Cloud Services International,Active,United Kingdom,Customer,83234,CLOU,,2024-10-18 00:24:44.749013 UTC
+202854734,Smart Systems Group,Active,United States,Customer,5670,,,2025-01-14 20:04:48.749131 UTC
+1979652368,Acme Corporation,Active,Australia,Customer,30593,ACME,,2024-03-28 07:49:36.749273 UTC
+1916576534,Future Solutions Inc,Active,United Kingdom,Customer,16484,FUTU,,2023-07-11 23:47:01.749462 UTC
+1506583953,Acme Corporation,Active,United Kingdom,Customer,45726,ACME,,2024-07-04 10:33:31.749601 UTC

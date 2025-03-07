@@ -1,0 +1,24 @@
+ ID, Facility ID, Name, Type, Head ID, Status, Capacity, Staff Count
+1971020269,228928367,Cardiology Department,Cardiology,840859815,Closed,58,19
+1170658395,228928367,Emergency Department,Emergency,840859815,Active,52,30
+701629776,228928367,Emergency Department,Emergency,1029413620,Active,46,24
+1593895426,228928367,Surgery Department,Surgery,519770588,Active,88,6
+1819406532,2001140343,Emergency Department,Emergency,1398229709,Closed,20,29
+818268165,2001140343,Cardiology Department,Cardiology,742365891,Limited,44,7
+303648950,2001140343,Neurology Department,Neurology,1816148921,Limited,97,27
+668160852,2001140343,Emergency Department,Emergency,519770588,Active,75,5
+1344593007,2001140343,Cardiology Department,Cardiology,1029413620,Active,99,29
+1855348827,2001140343,Surgery Department,Surgery,1826904509,Limited,35,7
+574311916,1841830709,Surgery Department,Surgery,1507141089,Active,72,24
+1677731448,1841830709,Pediatrics Department,Pediatrics,519770588,Active,33,27
+357360768,1841830709,Pediatrics Department,Pediatrics,943289491,Active,73,17
+827640492,1841830709,Pediatrics Department,Pediatrics,517880878,Active,49,10
+1379541885,1747972901,Orthopedics Department,Orthopedics,122346013,Active,88,20
+700460197,1747972901,Pediatrics Department,Pediatrics,1157138452,Active,31,30
+1408062656,1747972901,Neurology Department,Neurology,1398229709,Active,91,18
+1966308851,1747972901,Pediatrics Department,Pediatrics,1157138452,Limited,81,9
+1438106962,1747972901,Cardiology Department,Cardiology,1837155942,Active,81,20
+1560479820,293026350,Cardiology Department,Cardiology,1180861141,Active,51,21
+1595199791,293026350,Pediatrics Department,Pediatrics,2138075717,Active,20,8
+650284240,293026350,Emergency Department,Emergency,122346013,Closed,70,13
+539887200,293026350,Emergency Department,Emergency,1816148921,Active,52,16

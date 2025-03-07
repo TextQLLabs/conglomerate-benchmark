@@ -1,0 +1,150 @@
+ ID, Name, Address, City, State, Country, Postal Code, Longitude, Latitude
+1144840752,HQ,789 Pine Rd,Los Angeles,NY,USA,60601,34.0522,-87.6298
+1137426217,HQ,789 Pine Rd,New York,CA,USA,60601,34.0522,-87.6298
+1408913944,Branch Office,123 Main St,Chicago,IL,USA,60601,40.7128,-87.6298
+1886397906,Branch Office,123 Main St,New York,CA,USA,60601,40.7128,-118.2437
+2029903910,Warehouse,456 Oak Ave,Chicago,NY,USA,60601,34.0522,-118.2437
+458772028,Gulf Coast Chemical Facility,1250 Industrial Parkway,Freeport,LA,USA,,,
+2103319139,Delaware Valley Chemical Facility,2100 Process Drive,Freeport,DE,USA,,,
+506490516,Louisiana Chemical Facility,750 Chemistry Lane,Freeport,LA,USA,,,
+1964562859,Property-1,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+814108742,Property-2,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1782648377,Property-3,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1042418848,Property-4,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+703262002,Property-5,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1342437977,Property-6,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+372292590,Property-7,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+639426634,Property-8,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+699058213,Property-9,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1710316816,Property-10,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1039203145,Property-11,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1847096056,Property-12,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1509871057,Property-13,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1490665721,Property-14,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1916183546,Property-15,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+936895419,Property-16,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1662699701,Property-17,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1829978793,Property-18,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1582307446,Property-19,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+757915678,Property-20,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1057000339,Property-21,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+51250308,Property-22,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1961512060,Property-23,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+1180907717,Property-24,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+91389547,Property-25,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+385454577,Property-26,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1709915691,Property-27,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+118288990,Property-28,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1133924370,Property-29,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1180655294,Property-30,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1954937006,Property-31,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+983989966,Property-32,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1591427142,Property-33,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1087035021,Property-34,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+574111965,Property-35,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+2075664004,Property-36,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1780796931,Property-37,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1345029939,Property-38,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+130301855,Property-39,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1032906382,Property-40,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1200905714,Property-41,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1564714388,Property-42,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1504982480,Property-43,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1612072466,Property-44,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+1942402779,Property-45,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+1660359577,Property-46,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+24554455,Property-47,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+963164958,Property-48,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+720414035,Property-49,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+912183043,Property-50,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+916199330,Property-51,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+348570108,Property-52,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+74821874,Property-53,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+2031133423,Property-54,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+293862031,Property-55,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+670343342,Property-56,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1290704650,Property-57,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+645170648,Property-58,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+123580012,Property-59,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+2135061606,Property-60,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1021017406,Property-61,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+786049060,Property-62,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+1072130998,Property-63,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1471675915,Property-64,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1543008264,Property-65,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+797040693,Property-66,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1749207277,Property-67,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1098300226,Property-68,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1702785272,Property-69,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+582604031,Property-70,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1640400827,Property-71,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1474303324,Property-72,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+382547934,Property-73,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1616837878,Property-74,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1970624490,Property-75,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+2011442817,Property-76,123 Main St,Houston,TX,USA,12345,29.7604,-95.3698
+1289473572,Property-77,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1028759021,Property-78,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1982742142,Property-79,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+2063393844,Property-80,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1808110802,Property-81,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+842711869,Property-82,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+1640469825,Property-83,123 Main St,Miami,FL,USA,12345,25.7617,-80.1918
+2077871161,Property-84,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1222493451,Property-85,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1253908575,Property-86,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+241555828,Property-87,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+100918635,Property-88,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+638662987,Property-89,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1487332584,Property-90,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+704512385,Property-91,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1131331904,Property-92,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1253399310,Property-93,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+2120851954,Property-94,123 Main St,Seattle,WA,USA,12345,47.6062,-122.3321
+1637356298,Property-95,123 Main St,New York,NY,USA,12345,40.7128,-74.006
+1404277941,Property-96,123 Main St,Los Angeles,CA,USA,12345,34.0522,-118.2437
+1358241143,Property-97,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+2037261486,Property-98,123 Main St,Chicago,IL,USA,12345,41.8781,-87.6298
+369978346,Property-99,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+104293411,Property-100,123 Main St,Denver,CO,USA,12345,39.7392,-104.9903
+1470126959,Copper Mountain Mine,Mining District 1470126959,Morenci,AZ,USA,,,
+1619377116,Golden Valley Mine,Mining District 1619377116,Elko,NV,USA,,,
+1789245248,Iron Ridge Mine,Mining District 1789245248,Duluth,MN,USA,,,
+1509019523,Shanghai Port,Port Area,Shanghai,,CN,,,
+1069451396,Singapore Port,Port Area,Singapore,,SG,,,
+1148881892,Rotterdam Port,Port Area,Rotterdam,,NL,,,
+1456039623,Tokyo Restaurant,123 Food Street,Tokyo,,JP,,139.6503,35.6762
+10601865,New York Restaurant,123 Food Street,New York,,US,,-74.006,40.7128
+2045366917,London Restaurant,123 Food Street,London,,GB,,-0.1278,51.5074
+1802420564,US Midwest Farm,Rural Route 1,Agricultural District,,US,,-93.006,45.7128
+1282944422,US California Farm,Rural Route 1,Agricultural District,,US,,-119.4179,36.7783
+931167924,Brazil Farm,Rural Route 1,Agricultural District,,BR,,-46.6333,-23.5505
+1621065827,India Farm,Rural Route 1,Agricultural District,,IN,,78.9629,20.5937
+1780921570,Tokyo Trading Office,1 Finance Street,Tokyo,,JP,,139.6503,35.6762
+379940182,Singapore Trading Office,1 Finance Street,Singapore,,SG,,103.8198,1.3521
+521753675,London Trading Office,1 Finance Street,London,,GB,,-0.1278,51.5074
+1192792498,New York Trading Office,1 Finance Street,New York,,US,,-74.006,40.7128
+1180757146,Tokyo Consulting Office,1 Tech Plaza,Tokyo,,JP,,,
+474844078,Boston Consulting Office,1 Tech Plaza,Boston,,US,,,
+1695387093,London Consulting Office,1 Tech Plaza,London,,GB,,,
+450533921,Singapore Consulting Office,1 Tech Plaza,Singapore,,SG,,,
+1114934465,Vietnam Factory,123 Manufacturing Rd,Ho Chi Minh City,,VN,,,
+1939297328,Bangladesh Factory,123 Manufacturing Rd,Dhaka,,BD,,,
+1224973205,USA Factory,123 Manufacturing Rd,Los Angeles,,US,,,
+1601222702,Tokyo Market,123 Market St,Tokyo,,JP,,,
+402013078,Osaka Market,123 Market St,Osaka,,JP,,,
+382864454,Seoul Market,123 Market St,Seoul,,KR,,,
+1907649213,Singapore Market,123 Market St,Singapore,,SG,,,
+518666013,Tokyo-Akihabara Gaming Center,1 Entertainment Street,Tokyo Akihabara,,JP,,,
+898187292,Osaka-Dotonbori Gaming Center,1 Entertainment Street,Osaka Dotonbori,,JP,,,
+2056306054,Seoul-Gangnam Gaming Center,1 Entertainment Street,Seoul Gangnam,,KR,,,
+129906015,Las-Vegas-Strip Gaming Center,1 Entertainment Street,Las Vegas Strip,,US,,,
+248943317,Tokyo DC,1 Data Center Way,Tokyo DC,,JP,,139.6503,35.6762
+1517812193,Singapore DC,1 Data Center Way,Singapore DC,,SG,,103.8198,1.3521
+1552471998,London DC,1 Data Center Way,London DC,,GB,,-0.1278,51.5074
+1484687208,New York DC,1 Data Center Way,New York DC,,US,,-74.006,40.7128
+1970133513,CRM Marketing Office,123 Marketing St,New York,NY,USA,10001,-74.006,40.7128
+253434537,GamingOperations Marketing Office,123 Marketing St,New York,NY,USA,10001,-74.006,40.7128
+826084194,QSR Marketing Office,123 Marketing St,New York,NY,USA,10001,-74.006,40.7128
+2090316228,Manufacturing Marketing Office,123 Marketing St,New York,NY,USA,10001,-74.006,40.7128
+1057022055,RealEstate Marketing Office,123 Marketing St,New York,NY,USA,10001,-74.006,40.7128

@@ -1,0 +1,5 @@
+ ID, Name, Unit, Price Per Unit
+266730145,StorageGB,GB,0.25
+718906333,ReadUnits,Units,2.0e-4
+1874069107,WriteUnits,Units,1.0e-3
+1731833069,DataTransferGB,GB,9.0e-2
